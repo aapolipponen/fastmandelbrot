@@ -1,0 +1,5 @@
+fltk-devel
+g++
+make
+mpfr-devel 
+gmp-devel

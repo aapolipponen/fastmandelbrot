@@ -2,7 +2,7 @@
 CXX = g++
 
 # Compiler flags
-CXXFLAGS = -Wall -fopenmp -O3 -march=native -lmpfr -lgmp  #-lOpenCL
+CXXFLAGS = -Wall -fopenmp -O3 -march=native# -lmpfr -lgmp
 
 # Linker flags
 LDFLAGS = -lfltk
